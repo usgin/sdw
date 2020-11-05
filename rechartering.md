@@ -29,3 +29,14 @@ SDW-IG will largely work by correspondence (e.g. via mailing list and GitHub iss
 SDW-IG can publish OGC Discussion Papers, OGC White Papers, OGC Best Practices and W3C Notes – subject to the appropriate approvals processes.
 
 SDW-IG will have a designated staff contact from both OGC and W3C.
+
+---
+
+# Draft text for responsibilities of SDW Working Group (Sep 2020 onward)
+
+* coordinate between OGC and W3C on shared interests and raise awareness of their complementary strengths (e.g. Web scale architecture, accessibility, privacy, internationalisation, geospatial expertise) – monitor and liaise between groups from OGC and W3C.
+* identify areas where geospatial Web standards should be developed by W3C and/or OGC, make recommendations about these candidate standards to the relevant standards body or bodies, and support the development of charters for Working Groups to progress them.
+* respond to requests from OGC Architecture Board (OAB) and W3C Technical Architecture Group (TAG) to review materials relating to Geospatial Web standards.
+* periodically review and amend the OGC Technology Trends, OGC Innovation Program ideas issue tracker and W3C "strategy funnel" to identify, prioritise and track important ideas relating to geospatial Web standards.
+* provide an open, public forum where early ideas for geospatial Web standards can be shared (e.g. as a GitHub issue) until they migrate into a Community Group, Domain Working Group or Innovation program activity where they can be developed to the point where they are mature enough to Charter a W3C Working Group and/or an OGC Standards Working Group; where no existing forums are a good fit, SDW-WG will support establishment of the most appropriate forum in OGC or W3C.
+* Create and maintain geospatial Web standards and geospatial profiles of more general standards as enumerated in deliverables.
